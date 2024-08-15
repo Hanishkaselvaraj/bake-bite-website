@@ -21,6 +21,8 @@ Please note that this website is for educational purposes only and is intended t
 • JavaScript
 
 ## **Screenshots**
+![Capture 2](https://github.com/user-attachments/assets/820f04db-4627-4246-9312-97d5489007c0)
+![Capture 3](https://github.com/user-attachments/assets/7500b022-65a8-4d91-9743-c9af37401983)
 
 
 
